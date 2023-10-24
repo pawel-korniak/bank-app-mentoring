@@ -16,6 +16,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="application" target="11" />
+      <module name="jmp-service-impl" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
